@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there,I'm XuMing 👋
+
+- 🔭 I’m currently working on https://github.com/shibing624/imagefun
+- 🌱 I’m currently learning CV
+- 👯 I’m looking to collaborate on https://github.com/shibing624/pycorrector
+- 💬 Ask me about NLP, pytorch, ML, CV
+- 📫 How to reach me: https://blog.csdn.net/mingzai624
+- 😄 Pronouns: 做个星星，有棱有角，还会发光
+- ⚡ Fun fact: debug is harder than write bug
 
 <!--
 **shibing624/shibing624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
