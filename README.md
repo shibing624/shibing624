@@ -1,6 +1,6 @@
 ### Hi there,I'm XuMing 👋
 
-- 🔭 I’m currently working on [cvnet](https://github.com/shibing624/cvnet), [wordrank](https://github.com/shibing624/wordrank)
+- 🔭 I’m currently working on [cvnet](https://github.com/shibing624/cvnet), [text-generation](https://github.com/shibing624/text-generation)
 - 🌱 I’m currently learning CV
 - 👯 I’m looking to collaborate on [pycorrector](https://github.com/shibing624/pycorrector)
 - 💬 Ask me about <highlight>NLP, pytorch, ML, CV</highlight>
