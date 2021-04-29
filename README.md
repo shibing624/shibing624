@@ -1,12 +1,14 @@
-### Hi there,I'm XuMing 👋
 
+### Hi there,I'm XuMing 👋
 - 🔭 I’m currently working on [cvnet](https://github.com/shibing624/cvnet), [text-generation](https://github.com/shibing624/text-generation)
 - 🌱 I’m currently learning CV
 - 👯 I’m looking to collaborate on [pycorrector](https://github.com/shibing624/pycorrector)
 - 💬 Ask me about <highlight>NLP, pytorch, ML, CV</highlight>
 - 📫 How to reach me: [XuMing](https://blog.csdn.net/mingzai624)
 - 😄 Pronouns: 做个星星，有棱有角，还会发光
-- ⚡ Fun fact: debug is harder than write bug
+
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=shibing624&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=0d1019&hide_title=false&&hide_border=true" />
+
 
 <!--
 **shibing624/shibing624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shibing624&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=0d1019&hide_title=false&&hide_border=true" />
