@@ -6,11 +6,9 @@
 - 💬 Ask me about <highlight>NLP, pytorch, ML, CV</highlight>
 - 📫 How to reach me: [XuMing](https://blog.csdn.net/mingzai624)
 - 😄 Pronouns: 做个星星，有棱有角，还会发光
-
+<!--
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=shibing624&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=0d1019&hide_title=false&&hide_border=false" />
 
-
-<!--
 **shibing624/shibing624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
