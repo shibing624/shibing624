@@ -1,9 +1,9 @@
 
 ### Hi there,I'm XuMing 👋
 - 🔭 I’m currently working on [relext](https://github.com/shibing624/relext), [dialogbot](https://github.com/shibing624/dialogbot), [cvnet](https://github.com/shibing624/cvnet), [text-generation](https://github.com/shibing624/text-generation)
-- 🌱 I’m currently learning CV
+- 🌱 I’m currently learning Multimodal Technology, NLP, CV
 - 👯 I’m looking to collaborate on [pycorrector](https://github.com/shibing624/pycorrector)
-- 💬 Ask me about <highlight>NLP, pytorch, ML, CV</highlight>
+- 💬 Ask me about <highlight>NLP, pytorch, deeplearning</highlight>
 - 📫 How to reach me: [XuMing](https://blog.csdn.net/mingzai624)
 - 😄 Pronouns: 做个星星，有棱有角，还会发光
 <!--
