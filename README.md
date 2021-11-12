@@ -1,6 +1,6 @@
 
 ### Hi there,I'm XuMing 👋
-- 🔭 I’m currently working on [python-tutorial](https://github.com/shibing624/python-tutorial), [relext](https://github.com/shibing624/relext), [dialogbot](https://github.com/shibing624/dialogbot), [cvnet](https://github.com/shibing624/cvnet), [textgen](https://github.com/shibing624/textgen), [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+- 🔭 I’m currently working on [relext](https://github.com/shibing624/relext), [dialogbot](https://github.com/shibing624/dialogbot), [cvnet](https://github.com/shibing624/cvnet)
 - 🌱 I’m currently learning Multimodal Technology, NLP, CV
 - 👯 I’m looking to collaborate on [pycorrector](https://github.com/shibing624/pycorrector)
 - 💬 Ask me about <highlight>NLP, pytorch, deeplearning</highlight>
