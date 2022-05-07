@@ -1,6 +1,6 @@
 
 ### Hi there,I'm XuMing 👋
-- 🔭 I’m currently working on [cvnet](https://github.com/shibing624/cvnet), [parrots](https://github.com/shibing624/parrots), [similarities](https://github.com/shibing624/similarities)
+- 🔭 I’m currently working on [nerpy](https://github.com/shibing624/nerpy), [parrots](https://github.com/shibing624/parrots), [similarities](https://github.com/shibing624/similarities)
 - 🌱 I’m currently learning Multimodal Technology, NLP, CV
 - 👯 I’m looking to collaborate on [pycorrector](https://github.com/shibing624/pycorrector), [text2vec](https://github.com/shibing624/text2vec), [textgen](https://github.com/shibing624/textgen), [code-autocomplete](https://github.com/shibing624/code-autocomplete)
 - 💬 Ask me about <highlight>NLP, pytorch, deeplearning</highlight>
