@@ -1,10 +1,10 @@
 
 ### Hi there,I'm XuMing 👋
-- 🔭 I’m currently working on [nerpy](https://github.com/shibing624/nerpy), [parrots](https://github.com/shibing624/parrots), [similarities](https://github.com/shibing624/similarities), [relext](https://github.com/shibing624/relext), [pke_zh](https://github.com/shibing624/pke_zh)，[lmft](https://github.com/shibing624/lmft)
+- 🔭 I’m currently working on  [textgen](https://github.com/shibing624/textgen)
 - 🌱 I’m currently learning Multimodal Technology, NLP, CV
 - 👯 I’m looking to collaborate on [pycorrector](https://github.com/shibing624/pycorrector), [text2vec](https://github.com/shibing624/text2vec), [textgen](https://github.com/shibing624/textgen), [code-autocomplete](https://github.com/shibing624/code-autocomplete)
 - 💬 Ask me about <highlight>NLP, pytorch, deeplearning</highlight>
-- 📫 How to reach me: [XuMing](https://blog.csdn.net/mingzai624)
+- 📫 How to reach me: [Ming Xu (徐明)](https://blog.csdn.net/mingzai624)
 - 😄 Pronouns: 做个星星，有棱有角，还会发光
 <!--
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=shibing624&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=0d1019&hide_title=false&&hide_border=false" />
