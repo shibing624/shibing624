@@ -26,5 +26,9 @@ Here are some ideas to get you started:
 
 ---
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shibing624&show_icons=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shibing624&langs_count=3&hide=javascript,go,html,css,tex,Roff)
+<p align="center">
+<a href="https://github.com/shibing624">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shibing624&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shibing624&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
