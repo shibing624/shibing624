@@ -1,8 +1,8 @@
 
 ### Hi there,I'm XuMing 👋
-- 🔭 I’m currently working on [Agentica](https://github.com/shibing624/agentica), [MedicalGPT](https://github.com/shibing624/MedicalGPT), [weibo-roast](https://github.com/shibing624/weibo-roast)
+- 🔭 I’m currently working on [Agentica](https://github.com/shibing624/agentica), [MedicalGPT](https://github.com/shibing624/MedicalGPT), [weibo-roast](https://github.com/shibing624/weibo-roast), [WebResearcher](https://github.com/shibing624/WebResearcher)
 - 🌱 I’m currently learning Multimodal Technology, NLP, CV
-- 👯 I’m looking to collaborate on [pycorrector](https://github.com/shibing624/pycorrector), [text2vec](https://github.com/shibing624/text2vec), [textgen](https://github.com/shibing624/textgen)
+- 👯 I’m looking to collaborate on [pycorrector](https://github.com/shibing624/pycorrector), [text2vec](https://github.com/shibing624/text2vec)
 - 💬 Ask me about <highlight>NLP, pytorch, deeplearning</highlight>
 - 📫 How to reach me: [Ming Xu (徐明)](https://blog.csdn.net/mingzai624)
 - 😄 Pronouns: 做个星星，有棱有角，还会发光
