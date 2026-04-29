@@ -1,6 +1,6 @@
 
 ### Hi there,I'm XuMing 👋
-- 🔭 I’m currently working on [Agentica](https://github.com/shibing624/agentica), [MedicalGPT](https://github.com/shibing624/MedicalGPT), [weibo-roast](https://github.com/shibing624/weibo-roast), [WebResearcher](https://github.com/shibing624/WebResearcher)
+- 🔭 I’m currently working on [Agentica](https://github.com/shibing624/agentica), [MedicalGPT](https://github.com/shibing624/MedicalGPT), [TreeSearch(https://github.com/shibing624/TreeSearch), [ai-paper-analysis](https://github.com/shibing624/ai-paper-analysis)
 - 🌱 I’m currently learning Multimodal Technology, NLP, CV
 - 👯 I’m looking to collaborate on [pycorrector](https://github.com/shibing624/pycorrector), [text2vec](https://github.com/shibing624/text2vec)
 - 💬 Ask me about <highlight>NLP, pytorch, deeplearning</highlight>
